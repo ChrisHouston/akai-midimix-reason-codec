@@ -9,7 +9,7 @@ If you find it useful and would like to show your appreciation, why not buy one 
 
 Place the files in their respective subdirectories/folders for the Propellerhead Remote.
 
-On a Mac: HD/Library/Application Support/Propellerhead Software/Remote
+On a Mac: HD/Library/Application Support/Propellerhead Software/Remote  
 On a PC: C:\ProgramData\Propellerhead Software\Remote
 
 Note that the codecs and the map file are in separate folders.
