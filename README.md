@@ -14,7 +14,7 @@ On a PC: C:\ProgramData\Propellerhead Software\Remote
 
 Note that the codecs and the map file are in separate folders.
 
-Make sure your MIDIMix controller is using the factory presets or this not work. If not, reset using the MIDIMix Editor.
+Make sure your MIDIMix controller is using the factory presets or this will not work. If not, reset using the MIDIMix Editor.
 
 ## Maps
 
