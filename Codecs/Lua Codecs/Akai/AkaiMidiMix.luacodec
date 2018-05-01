@@ -1,0 +1,19 @@
+-- Developed by The Sighs of Monsters 
+-- If you find this code useful, say thanks by buying on of our albums!
+-- http://thesighsofmonsters.com/
+
+version={1,0,0}
+
+function remote_supported_control_surfaces()
+	local surfaces =	
+	{
+			{ manufacturer="Akai", model="MIDIMix",
+				source="AkaiMidiMix.lua", picture="AkaiMidiMix.png", 
+				in_ports={{description="In Port"}}, 
+				out_ports={{description="Out Port", optional=true}},
+				has_keyboard=false,
+				setup_info_text="" ,
+			}
+	}
+	return surfaces
+end

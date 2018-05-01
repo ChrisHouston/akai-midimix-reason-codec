@@ -1,0 +1,67 @@
+Propellerhead Remote Mapping File
+File Format Version	1.0.0
+Control Surface Manufacturer	Akai
+Control Surface Model	MIDIMix
+Map Version	1.0.0
+
+//This is a remote map template for the Akai MIDIMix and Reason 10
+
+// Developed by The Sighs of Monsters 
+// If you find this code useful, say thanks by buying on of our albums!
+// http://thesighsofmonsters.com/
+
+Scope	Propellerheads	Master Keyboard
+//	Control Surface Item	Key	Remotable Item	Scale	Mode
+//Map	Keyboard		Keyboard
+
+
+Scope	Kuassa	com.kuassa.EfektorSilencer
+Map	Knob 1 Top		Threshold
+Map	Knob 2 Top		Attack
+Map	Knob 3 Top		Decay
+Map	Mute 1		Dual Mono On/Off
+Map	Rec 1		On / Bypass
+
+
+Scope	Cakewalk	com.cakewalk.RE2A
+Map	Fader 8		MeterSetting
+Map	Knob 8 Bottom		R37
+Map	Knob 8 Middle		PeakReduction
+Map	Knob 8 Top		OutputGain
+Map	Mute 8		Compress/Limit
+Map	Rec 8		Select Next Patch
+
+
+Scope	Propellerheads	Line Mixer 6:2
+Map	Fader 1		Channel 1 Level
+Map	Fader 2		Channel 2 Level
+Map	Fader 3		Channel 3 Level
+Map	Fader 4		Channel 4 Level
+Map	Fader 5		Channel 5 Level
+Map	Fader 6		Channel 6 Level
+Map	Mute 1		Channel 1 Mute
+Map	Mute 2		Channel 2 Mute
+Map	Mute 3		Channel 3 Mute
+Map	Mute 4		Channel 4 Mute
+Map	Mute 5		Channel 5 Mute
+Map	Mute 6		Channel 6 Mute
+Map	Solo 1		Channel 1 Solo
+Map	Solo 2		Channel 2 Solo
+Map	Solo 3		Channel 3 Solo
+Map	Solo 4		Channel 4 Solo
+Map	Solo 5		Channel 5 Solo
+Map	Solo 6		Channel 6 Solo
+Map	Knob 1 Middle		Channel 1 Pan
+Map	Knob 2 Middle		Channel 2 Pan
+Map	Knob 3 Middle		Channel 3 Pan
+Map	Knob 4 Middle		Channel 4 Pan
+Map	Knob 5 Middle		Channel 5 Pan
+Map	Knob 6 Middle		Channel 6 Pan
+Map	Knob 1 Top		Channel 1 Aux Send
+Map	Knob 2 Top		Channel 2 Aux Send
+Map	Knob 3 Top		Channel 3 Aux Send
+Map	Knob 4 Top		Channel 4 Aux Send
+Map	Knob 5 Top		Channel 5 Aux Send
+Map	Knob 6 Top		Channel 6 Aux Send
+Map	Knob 8 Top		Aux Return Level
+Map	Fader 9		Master Level
